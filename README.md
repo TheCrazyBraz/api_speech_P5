@@ -1,3 +1,7 @@
-# Speech_api
+API SPEECH (Snake Edition)
 
-###Example project to illustrate use of the p5 speech api
+Jeg vil arbejde på at omskrive dette program med talegenkendelse til at virke ssom en snak spil.
+
+Javascript p5
+
+teknologier? Idk
